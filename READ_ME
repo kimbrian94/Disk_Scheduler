@@ -1,0 +1,9 @@
+Name: Giseung Kim
+Student #: 212981858
+Final Project
+To compile, create executable and execute run following commands:
+	make
+	./diskScheduler input.txt
+
+Then you can see each output.txt created in the project directory.
+Thank you.
